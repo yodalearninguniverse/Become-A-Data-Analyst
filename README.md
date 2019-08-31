@@ -1,4 +1,6 @@
-# Become-A-Data-AnalystCourse #1: Power BI Masterclass
+# Become-A-Data-Analyst-https://yodalearning.com/courses/data-analyst-online-course/
+
+Course #1: Power BI Masterclass
 
 Course #2: Power Point Ninja
 
